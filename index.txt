@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>Hello World</title>
+  <title>ForGC2E_HTML</title>
 </head>
 <body>
   <script>
