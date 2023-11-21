@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Hello World</title>
+</head>
+<body>
+  <script>
+    // コンソールに出力
+    console.log("Hello World");
+
+    // HTMLに表示
+    document.write("Hello World");
+  </script>
+</body>
+</html>
